@@ -1,0 +1,11 @@
+TPad LiPo Power USB OTG explanation
+===================================
+
+GKO - Dimension
+GTL - Trace TOP
+GTO - Ink TOP
+GTS - Stop TOP
+GBO - Ink BOT
+GBL - Trace BOT
+GBS - Stop BOT
+XLN - Drills & holes
